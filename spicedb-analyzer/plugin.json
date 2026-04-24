@@ -1,0 +1,15 @@
+{
+  "name": "spicedb-analyzer",
+  "description": "Expert analysis of SpiceDB and AuthZed authorization schemas in Zed DSL. Use when asked to review, audit, debug, or improve .zed schemas, composable schemas using import and partial, caveats and typechecking usage, and Playground YAML files with schema, relationships, assertions, and validation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "oitnes",
+    "url": "https://github.com/oitnes"
+  },
+  "homepage": "https://github.com/oitnes/authzed-skills",
+  "repository": "https://github.com/oitnes/authzed-skills",
+  "license": "MIT",
+  "keywords": ["spicedb", "authzed", "zed", "permissions", "zanzibar", "authorization"],
+  "category": "analysis",
+  "skills": "skills/"
+}
