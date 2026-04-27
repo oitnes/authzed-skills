@@ -11,5 +11,5 @@
   "license": "MIT",
   "keywords": ["spicedb", "authzed", "zed", "permissions", "zanzibar", "authorization"],
   "category": "analysis",
-  "skills": "skills/"
+  "skills": ["skills/spicedb-analyzer"]
 }
