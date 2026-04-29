@@ -9,7 +9,5 @@
   "homepage": "https://github.com/oitnes/authzed-skills",
   "repository": "https://github.com/oitnes/authzed-skills",
   "license": "MIT",
-  "keywords": ["spicedb", "authzed", "zed", "permissions", "zanzibar", "authorization"],
-  "category": "analysis",
-  "skills": ["skills/spicedb-analyzer"]
+  "keywords": ["spicedb", "authzed", "zed", "permissions", "zanzibar", "authorization"]
 }
